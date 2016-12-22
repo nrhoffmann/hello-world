@@ -1,4 +1,4 @@
-ed# hello-world
+# hello-world
 
 Hey Reader!
 
