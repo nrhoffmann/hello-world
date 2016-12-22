@@ -7,4 +7,4 @@ critical applications. Motivated, responsible, and eager to learn new things. Sh
 the question isn’t if, but how!
 
 Thanks for finding me.
-mailto:nathanrosshoffmann@gmail.com?subject=Re_GitHub
+<a href="mailto:nathanrosshoffmann@gmail.com?subject=Re_GitHub">reply</a>
