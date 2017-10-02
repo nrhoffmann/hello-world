@@ -1,10 +1,9 @@
 # hello-world
 
-Hey Reader!
-
-Software development engineer seeking an internship position for the summer of 2017. Special interest in system software and mission 
-critical applications. Motivated, responsible, and eager to learn new things. Sharp-minded, enjoys creative problem-solving and believes 
-the question isn’t if, but how!
+**Software Developer** seeking an internship position for the summer of 2018  
+•	A team player who has worked on group projects in a collaborative and effective manner.  
+•	Motivated, resourceful, and agile.  
+•	Sharp-minded and creative problem solver who believes the question isn’t “if, but how!”  
 
 Thanks for finding me.
 
